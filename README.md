@@ -1,2 +1,1 @@
-# Sample
-aaa
+This is the readme.md file
